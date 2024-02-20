@@ -8,4 +8,4 @@
      C     nom           dsply
      C                   enddo
      C                   eval      *inlr = '1'
-      * AAA
+      * test 30
