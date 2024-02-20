@@ -6,7 +6,7 @@
       "GLOBAL"
     ],
     "deployFirst": true,
-    "command": "QOpenSys/usr/bin/make BIN_LIB=&CURLIB OPTS=*EVENTF"
+    "command": "/QOpenSys/usr/bin/make BIN_LIB=&CURLIB OPTS=*EVENTF"
   },
   {
     "name": "Create RPGLE Program",
