@@ -1,0 +1,10 @@
+                                            UNIQUE
+                R SALARIEF
+
+                  MATRI         11          COLHDG('MATRICULE')
+                  NOM           50          COLHDG('NOM')
+                  PRENOM        50          COLHDG('PRÉNOM')
+                  AGE            3S 0       COLHDG('AGE')
+                  TEST          10          COLHDG('test')
+
+                K MATRI
